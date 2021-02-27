@@ -2,7 +2,7 @@ matrixio-creator-init (0.4.17) unstable; urgency=medium
 
   * Support for Raspberry Pi 4 (sysfs workaround)
 
- --  Andres Calderon <andres.calderon@admobilize.com>  Tue, 12 Ago 2019 18:00:00 +0000
+ --  Andres Calderon <andres.calderon@admobilize.com>  Tue, 12 Aug 2019 18:00:00 +0000
 
 matrixio-creator-init (0.4.16) unstable; urgency=medium
 
@@ -15,16 +15,16 @@ matrixio-creator-init (0.4.15) unstable; urgency=medium
   * Fix script to add new setings in /boot/config.txt
 
  --  Leonardo Urrego <leonardo.urrego@admobilize.com>  Thu, 27 Jun 2019 15:00:00 +0000
- 
+
  matrixio-creator-init (0.4.14) unstable; urgency=medium
 
-  * Buster support added (Jessie deprecated). 
+  * Buster support added (Jessie deprecated).
 
  --  Andres Calderon <andres.calderon@matrixlabs.ai>  Tue, 25 Jun 2019 15:00:00 +0000
 
 matrixio-creator-init (0.4.13) unstable; urgency=medium
 
-  * Fix in Playback core module. It is now compatible with signed 16bit PCM  
+  * Fix in Playback core module. It is now compatible with signed 16bit PCM
 
  --  Yoel Ramos Castillo <yoel.castillo@matrixlabs.ai>  Tue, 13 Nov 2018 15:00:00 +0000
 
@@ -137,7 +137,7 @@ matrixio-creator-init (0.3.3) unstable; urgency=medium
   * Multiple frequency support in micarray has been supported.
   * Support NFC Hardware layer has been added
   * Zwave setup in ttyS0
-  * Remove LIRC support 
+  * Remove LIRC support
 
  --  Kevin Patino <kevin.patino@admobilize.com>  Fri, 15 Sep 2017 19:26:10 +0000
 
@@ -161,8 +161,8 @@ matrixio-creator-init (0.3.0) unstable; urgency=medium
 
 matrixio-creator-init (0.2-23) unstable; urgency=medium
 
-  * Adding Zigbee pre-installation scripts 
-  * LIRC add custom remotes 
+  * Adding Zigbee pre-installation scripts
+  * LIRC add custom remotes
 
  --  <pi@raspberrypi>  Mon, 23 Jan 2017 07:09:29 -0900
 
